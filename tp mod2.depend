@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664732719 source:c:\users\acer\documents\struktur data\tp strukdat mod2\tp mod2\main.cpp
+	"hello.h"
+
+1664735066 c:\users\acer\documents\struktur data\tp strukdat mod2\tp mod2\hello.h
+	<iostream>
+	<cstdlib>
+
+1664735452 source:c:\users\acer\documents\struktur data\tp strukdat mod2\tp mod2\hello.cpp
+	"hello.h"
+
